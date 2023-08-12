@@ -11,7 +11,7 @@ Página creada con fines académicos.
 ## **ÍNDICE**
 
 * [1. Navbar](#1-navbar)
-* [2. Descripción](#2-descripción)
+* [2. Texto-título](#2-texto-título)
 * [3. Input](#3-input)
 * [4. Tabla](#4-tabla)
 * [5. Footer](#5-footer)
@@ -21,31 +21,43 @@ Página creada con fines académicos.
 ## 1. Navbar
 
 Posee el logo de la página y un buscador ficticio que debería ser la lista completa de clientes.
+![nav](./asssets/images/Nav.png)
 
 ****
 
-## 2. Descripción
+## 2. Texto-título
 
 
 Habla del para qué sirven los datos de la tabla. Posee una funcion que muestra la fecha actualizada.
+![titulo](./asssets/images/Texto-titulo.png)
 
 ****
 
 ## 3. Input
 
 Recibe datos que serán guardados en el local storage en forma de objeto y dentro de un arreglo.
+![input](./asssets/images/Input.png)
 
 ****
 
 ## 4. Tabla
 
-Sección donde se muestran los datos ingresados. Los datos se pueden editar o eliminar. Los datos proceden del local storage.
+Sección donde se muestran los datos ingresados. Los datos proceden del local storage.
+![tabla](./asssets/images/Tabla.png)
+![storage](./asssets/images/LocalStorage.png)
+
+Los datos se pueden editar o eliminar. 
+![editar](./asssets/images/Editar.jpg)
+![guardar](./asssets/images/Guardar.jpg)
+![eliminar](./asssets/images/Eliminar.png)
+![vacio](./asssets/images/Storage-Vacio.png)
 
 ****
 
 ## 5. Footer
 
 Información general e instagram ficticio de la página en caso de necesitarse.
+![footer](./asssets/images/Footer.png)
 
 ****
 
