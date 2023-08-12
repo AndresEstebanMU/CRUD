@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    margin-left: 100px;
+}
+
+#parrafo {
+    text-align: center;
+    font-size: 40px;
+    margin: 100px 0;
+}
+
+label {
+    font-weight: 600;
+}
+
+#input {
+    display: flex;
+    justify-content: center;
+}
+
+#tabla {
+    margin: 1% 10%;
+}
+
+th {
+    background-color: rgb(255, 197, 187) !important;
+}
+
