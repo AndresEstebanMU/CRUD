@@ -4,7 +4,7 @@
 
 Proyecto creado para la UDD que recive datos y los guarda en el local storage de la página para luego mostrarlos en una tabla. 
 Los datos se pueden editar y eliminar. 
-Todos los datos mostrados en la página proceden del local storage.
+Todos los datos mostrados en la tabla proceden del local storage.
 Se usó HTML5, CSS y Javascript.    
 Página creada con fines académicos.
 
