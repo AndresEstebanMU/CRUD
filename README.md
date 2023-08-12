@@ -15,6 +15,7 @@ Página creada con fines académicos.
 * [3. Input](#3-input)
 * [4. Tabla](#4-tabla)
 * [5. Footer](#5-footer)
+* [6. Deployment](#6-deployment)
 
 ****
 
@@ -65,5 +66,10 @@ Información general e instagram ficticio de la página en caso de necesitarse.
 
 ****
 
+## 6. Deployment
+
+→  https://andresestebanmu.github.io/CRUD/
+
+****
 
 Datos de contacto: andresestebanmu@gmail.com
