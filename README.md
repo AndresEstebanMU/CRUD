@@ -37,6 +37,7 @@ Habla del para qué sirven los datos de la tabla. Posee una funcion que muestra 
 
 Recibe datos que serán guardados en el local storage en forma de objeto y dentro de un arreglo.
 ![input](./asssets/images/Input.png)
+![primer-ingreso](./asssets/images/ingreso.png)
 
 ****
 
