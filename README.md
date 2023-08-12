@@ -48,8 +48,11 @@ Sección donde se muestran los datos ingresados. Los datos proceden del local st
 
 Los datos se pueden editar o eliminar. 
 ![editar](./asssets/images/Editar.jpg)
+Al guardar se reemplaza el dato en local storage, en la tabla y al mismo tiempo el boton Agregar clientes vuelve a aparecer ocultando el boton Guardar clientes.
 ![guardar](./asssets/images/Guardar.jpg)
+El boton eliminar quita datos del storage y , por lo tanto, de la tabla.
 ![eliminar](./asssets/images/Eliminar.png)
+Si elimino todos los datos, solo me queda un arreglo vacío.
 ![vacio](./asssets/images/Storage-Vacio.png)
 
 ****
