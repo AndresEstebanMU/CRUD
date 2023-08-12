@@ -39,7 +39,7 @@ Recibe datos que serán guardados en el local storage en forma de objeto y dentr
 
 ## 4. Tabla
 
-Sección donde se muestran los datos ingresados. Los datos se pueden editar o eliminar.
+Sección donde se muestran los datos ingresados. Los datos se pueden editar o eliminar. Los datos proceden del local storage.
 
 ****
 
